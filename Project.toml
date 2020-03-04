@@ -1,0 +1,4 @@
+name = "TestingFramework"
+uuid = "cf7ac060-ac15-44b3-a581-6c463737028a"
+authors = ["casv2 <casv2@cam.ac.uk>"]
+version = "0.1.0"
